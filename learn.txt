@@ -1,0 +1,24 @@
+1) Read write Image
+2) Read write Video
+3) Color coversion
+4) Basic figure drawing
+5) tracker bar
+6) Mouse event
+7) Merging, splitting, adding, Weightadding, Region of intrest, Resize
+8) Bitwise operation with Image
+9) Object tracking ,HSV
+10) Thresholding,adaptive Thresholding and its types
+11) Dilate, kernel, erode, morphologyEx
+12) Smootting and blurring images
+13) Image gradients and canny edge detection
+14) Image pyramids
+15) Contours
+16) Motion detection
+17) Shape detection
+18) Histogram and Calhistogram
+19) Template matching
+20) Hought Transform
+21) Corner detection, Harris Corner detection, Shi Tomasi Corner detection
+22) Lane detection
+23) Background subtraction
+24) Meanshift
